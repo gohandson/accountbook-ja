@@ -44,5 +44,5 @@ $ cd accountbook-ja
 ## ライセンス
 
 <a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode.ja">
-	<img width="300" src="by-nc.eu.png">
+	<img width="200" src="by-nc.eu.png">
 </a>
