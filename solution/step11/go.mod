@@ -1,4 +1,4 @@
-module github.com/GoHandson/accountbook-ja/solution/step11
+module github.com/gohandson/accountbook-ja/solution/step11
 
 go 1.14
 

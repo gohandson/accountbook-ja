@@ -1,4 +1,4 @@
-module github.com/GoHandson/accountbook-ja/solution/step07
+module github.com/gohandson/accountbook-ja/solution/step07
 
 go 1.14
 
