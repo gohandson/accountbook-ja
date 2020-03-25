@@ -10,6 +10,6 @@
 ## 動かし方
 
 ```
-$ go build -v -o step09
-$ ./step09
+$ go build -v -o step10
+$ ./step10
 ```
